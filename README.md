@@ -6,4 +6,5 @@ Today I Learned
 ---
 ## Spring Boot
 
-- [ResponseEntity]()
+- [ResponseEntity](https://github.com/sio2whocodes/TodayILearned/blob/main/springBoot/responseEntity_210906.md)
+- [JWT](https://github.com/sio2whocodes/TodayILearned/blob/main/springBoot/JWT_210908.md)
